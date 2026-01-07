@@ -1,10 +1,11 @@
 # Global owners (fallback)
-* @gsvalue
+@gsvalue
 
 # Project ownership
-/project-a/ @team-a-leads
-/project-b/ @team-b-leads
-/project-c/ @team-c-leads
+#/project-a/ @team-a-leads
+#/project-b/ @team-b-leads
+#/project-c/ @team-c-leads
+/dashboards/ @gsvalue
 
 # Shared libraries
-/shared-libs/ @platform-team
+#/shared-libs/ @platform-team
